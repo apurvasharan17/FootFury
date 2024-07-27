@@ -98,7 +98,7 @@ export const LoginPage = () => {
           </div>
           <span
             className="center-text login-guest"
-            onClick={() => GuestLoginHandler("nancy@gmail.com", "nancy123")}
+            onClick={() => GuestLoginHandler("guestuser@gmail.com", "guest123")}
           >
             Log in as a guest.
           </span>
