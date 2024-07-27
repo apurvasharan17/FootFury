@@ -21,7 +21,8 @@ export const Navbar = () => {
         <div className="flex list">
           <Link to="/" className="ranger-logo">
             <img
-              src="https://res.cloudinary.com/bhakti1801/image/upload/v1649919109/R_ezqx3h.png"
+              // src="https://res.cloudinary.com/bhakti1801/image/upload/v1649919109/R_ezqx3h.png"
+              src="../../../public/assets/R.png"
               alt="logo"
               className="logo-ecom"
             />
