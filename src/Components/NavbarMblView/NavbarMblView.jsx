@@ -26,7 +26,7 @@ export const NavbarMblView = () => {
         <div className="flex list">
           <Link to="/" className="ranger-logo">
             <img
-              src="https://res.cloudinary.com/bhakti1801/image/upload/v1649919109/R_ezqx3h.png"
+              src="./assets/FootFuryLogo.png"
               alt="logo"
               className="logo-ecom"
             />
