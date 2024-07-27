@@ -24,7 +24,7 @@ export const NavbarMblView = () => {
       flex nav-ecom-mbl-view"
       >
         <div className="flex list">
-          <Link to="/" className="ranger-logo">
+          <Link to="/">
             <img
               src="./assets/FootFuryLogo.png"
               alt="logo"
