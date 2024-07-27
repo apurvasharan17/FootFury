@@ -14,7 +14,7 @@ export const Navbar = () => {
   return (
     <>
       <div className="free-shipping-msg">
-        FREE SHIPPING FOR ORDERS Rs.2000+. GIFTED RANGER COUPONS WITH PURCHASES
+        FREE SHIPPING FOR ORDERS Rs.2000+. GIFTED APU20 COUPONS WITH PURCHASES
         Rs.2500+.
       </div>
       <nav className="navbar-ecom flex ">
