@@ -19,7 +19,7 @@ export const Footer = () => {
         <div>
           <a
             className="social-links"
-            href="https://github.com/Bhakti199"
+            href="https://github.com/apurvasharan17"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -29,7 +29,7 @@ export const Footer = () => {
         <div>
           <a
             className="social-links"
-            href="https://twitter.com/Bhaktee_"
+            href="https://x.com/thehappym0nk"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -39,7 +39,7 @@ export const Footer = () => {
         <div>
           <a
             className="social-links"
-            href="https://www.linkedin.com/in/bhakti-kharatkar-33178a200/"
+            href="https://www.linkedin.com/in/apurvasharan17/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -53,7 +53,7 @@ export const Footer = () => {
         <div>Terms of Use</div> <div>Privacy Policy</div>
       </div>
       <div className="footer-copyright-text">
-        <AiOutlineCopyrightCircle size={14} /> 2022 | Ranger Shoe ecommerce
+        <AiOutlineCopyrightCircle size={14} /> 2024 | FootFury Shoe ecommerce
       </div>
     </div>
   );
