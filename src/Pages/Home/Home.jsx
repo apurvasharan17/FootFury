@@ -12,7 +12,7 @@ export const Home = () => {
       <div className="video-container flex">
         <video autoPlay loop muted className="landing-video">
           <source
-            src="https://res.cloudinary.com/bhakti1801/video/upload/eo_38,so_18/v1650876948/Motion_Design_For_Nike_Shoe_Upcoming_e78lfa.mp4"
+            src="./assets/HomeNikeVideo.mp4"
             type="video/mp4"
           />
         </video>
