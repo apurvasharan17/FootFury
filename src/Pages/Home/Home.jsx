@@ -19,7 +19,7 @@ export const Home = () => {
         <div className="video-text">
           <div className="video-title">Run an extra mile</div>
           <div className="video-sub-title">
-            Ranger Shoe is a destination for style seekers.
+            FootFury is a destination for style seekers.
           </div>
           <Link to="/product-listing">
             <button
@@ -33,9 +33,8 @@ export const Home = () => {
       </div>
 
       <div className="main-text">
-        Curators of Ranger Shoe and associated brands designed. Ranger Shoe is a
-        destination for style seekers. Located in India's fashion land Navi
-        Mumbai.
+        Curators of Ranger Shoe and associated brands designed. FootFury is a
+        destination for style seekers. Made By Apurva Sharan.
       </div>
       <div className="banner-models">
         <div className="model-one">
