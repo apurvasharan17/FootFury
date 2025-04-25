@@ -33,7 +33,7 @@ export const Home = () => {
       </div>
 
       <div className="main-text">
-        Curators of Ranger Shoe and associated brands designed. FootFury is a
+         FootFury is a
         destination for style seekers. Made By Apurva Sharan.
       </div>
       <div className="banner-models">
