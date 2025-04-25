@@ -102,7 +102,7 @@ export const Home = () => {
                       className="slider-button"
                       onClick={() => dispatch({ type: "CLEAR_CATEGORY" })}
                     >
-                      Shop Now
+                      Shop Now!
                     </button>
                   </Link>
                 </div>
